@@ -1,0 +1,10 @@
+.button-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 24px 0;
+  margin-bottom: 24px;
+}
+
+button {
+  font-size: 14px;
+}
