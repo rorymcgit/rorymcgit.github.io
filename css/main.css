@@ -1,0 +1,38 @@
+body {
+	font-family: 'Work Sans', sans-serif;
+	font-size: 24px; /* Temporary */
+}
+
+a:-webkit-any-link {
+	color: #4287f5;
+	text-decoration: none;
+}
+
+a {
+	color: #4287f5;
+	text-decoration: none;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	background:
+}
+
+.link {
+	padding: 6px;
+}
+
+.email-tooltip {
+	color: #4287f5;
+	cursor: pointer;
+	position: relative;
+}
+
+.link:hover .fai {
+	transition: 0.3s ease-in-out;
+	/* transform: rotate(360deg); */
+	transform: scale(1.5);
+}
